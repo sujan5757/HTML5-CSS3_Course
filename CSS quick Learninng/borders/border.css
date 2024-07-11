@@ -1,0 +1,38 @@
+h1 {
+    border-style: dashed;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+h2 {
+    border-style: dotted;
+    border: 3px solid black;
+}
+
+h3 {
+    border-style: double;
+}
+
+h4 {
+    border-style: groove
+}
+
+h5 {
+    border-style: hidden;
+}
+
+h6 {
+    border-style: inherit;
+}
+
+
+/* solid
+ */
+
+p {
+    border-bottom: 3px solid rgb(155, 33, 33);
+    border-top: 3px solid orange;
+    border-left: green 2px solid;
+    border-right: 3px solid black;
+}

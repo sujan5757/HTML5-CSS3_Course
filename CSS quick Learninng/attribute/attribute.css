@@ -1,0 +1,15 @@
+* {
+    background-color: blueviolet;
+}
+
+#p1 {
+    color: rgb(107, 58, 93);
+}
+
+.odd {
+    color: aquamarine;
+}
+
+.even {
+    color: red;
+}

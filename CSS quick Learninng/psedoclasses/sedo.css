@@ -1,0 +1,18 @@
+button:hover {
+    font-size: 1.1rem;
+    background-color: rgb(46, 194, 194);
+}
+
+button:active {
+    font-size: 1.1rem;
+    background-color: rgb(255, 72, 0);
+}
+
+
+/*
+link
+hover
+active
+visited
+not(:hover)
+*/

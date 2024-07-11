@@ -1,0 +1,33 @@
+#container {
+    border: 2px solid;
+}
+
+
+/* descendet combination just giveing space*/
+
+#container p {
+    background-color: yellow;
+}
+
+
+/*
+child combinator
+#container > p {
+    background-color: yellow;
+} */
+
+
+/* 
+general sibling
+
+#container ~ p {
+    background-color: yellow;
+} */
+
+
+/* 
+adjacent sibling
+
+#container + p {
+    background-color: yellow;
+} */

@@ -1,0 +1,20 @@
+@font-face {
+    src: url(fonts/Roboto/Roboto-BoldItalic.ttf);
+    font-family: Roboto-Light;
+}
+
+h1 {
+    font-family: Roboto-Light, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: "Roboto";
+    font-size: 19px;
+    /* initially it is 18 
+    pixel px
+1em=100%
+0.5em=50%
+2em=200%
+
+    */
+}
